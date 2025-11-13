@@ -1,4 +1,5 @@
-![Vista previa del Conversor de Monedas](challenge-conversor-de-monedas.png)
+![Challenge Conversor de Monedas](conversor-de-monedas.png)
+
 
 # 💱 Challenge - Conversor de Monedas 👩‍💻  
 
@@ -124,4 +125,4 @@ Ingrese la cantidad: 10
 
 Un proyecto de consola funcional que consume una API, procesa JSON con Gson y realiza conversiones de monedas en tiempo real.
 
-![Vista previa del conversor](vista-previa-conversor-2.png)
+![Vista previa del conversor](vista-previa-del-conversor-2.png)

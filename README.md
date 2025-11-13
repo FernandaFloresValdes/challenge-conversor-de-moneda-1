@@ -1,3 +1,5 @@
+![Vista previa del Conversor de Monedas](challenge-conversor-de-monedas.png)
+
 # 💱 Challenge - Conversor de Monedas 👩‍💻  
 
 ### Proyecto desarrollado por: **Fernanda Flores**  
@@ -121,3 +123,5 @@ Ingrese la cantidad: 10
 ## 🏁 Resultado final
 
 Un proyecto de consola funcional que consume una API, procesa JSON con Gson y realiza conversiones de monedas en tiempo real.
+
+![Vista previa del conversor](vista-previa-conversor-2.png)

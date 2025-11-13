@@ -116,6 +116,8 @@ Elija una opción: 1
 Ingrese la cantidad: 10
 10.00 USD equivale a 183.02 MXN
 
-## 📸 Vista previa del proyecto:
+## 📸 Vista previa del conversor
 
-![Vista previa del conversor](vistaprevia-conversor-de-monedas.png)
+![Vista previa del conversor](vistapreviaconversor.png)
+
+---
